@@ -15,8 +15,10 @@ print ("""
 ██   ██ ██   ██ ██    ██    ██    ██          ██      ██    ██ ██   ██ ██      ██      
 ██████  ██   ██  ██████     ██    ███████     ██       ██████  ██   ██  ██████ ███████                                                            
                                                                             
-                   ATIF BANNISAI
+           Owner : ATIF KHAN
         https://github.com/Targetfb
+        Facebook : عاطف خان
+        Whatsapp : 03313870659
 
 
 """)
