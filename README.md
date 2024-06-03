@@ -10,4 +10,4 @@ pip install requests
 pip install rich
 git clone https://github.com/Targetfb/Bruteforce.git
 cd Bruteforce
-python captan1.py
+python captan3.py
