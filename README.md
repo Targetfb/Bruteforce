@@ -1,10 +1,13 @@
 # Bruteforce
 pkg update
 pkg upgrade
+pkg install git
 pkg install python
 pkg install python2
 pip install mechanize
-pkg install git
-git clone https://github.com/Targetfb
-cd Targetfb
-python2 Bruteforce.py
+pip install bs4
+pip install requests
+pip install rich
+git clone https://github.com/Targetfb/Bruteforce.git
+cd Bruteforce
+python captan1.py
