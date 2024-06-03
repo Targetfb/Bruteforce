@@ -408,12 +408,12 @@ logo = """
 \x1b[1;97m🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹
 \33[1;41m                   POWERD BY  ATIF Ali   NEW PUBLIC TOOLS 💛👈 \33[0m
 \x1b[1;97m🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔹
-\x1b[1;97m[+] OWNER          :   ATIF BANNUZAI
+\x1b[1;97m[+] OWNER     :   ATIF BANNUZAI
 \x1b[1;97m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :  ATIF KHAN
-\x1b[1;97m[+] Whatsapp      :   03313870659 
- \x1b[1;97m[+]  ADMIN          :    CAPTAN JANI
-\x1b[1;97m[+] 𝗧𝗘𝗔𝗠    :   \33[1;42  1 STAR GROUP\33[0m
-\x1b[1;97m[+] 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 :\x1b[1;97m    0.0.2    \x1b[1;97m          
+\x1b[1;97m[+] Whatsapp  :   03313870659 
+ \x1b[1;97m[+] ADMIN    :    CAPTAN JANI
+\x1b[1;97m[+] 𝗧𝗘𝗔𝗠     :   \33[1;42  1 STAR GROUP\33[0m
+\x1b[1;97m[+] 𝗩𝗘𝗥𝗦𝗜𝗢𝗡  :\x1b[1;97m    0.0.2    \x1b[1;97m          
 \x1b[1;97m🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹
 """
  
